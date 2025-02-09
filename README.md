@@ -32,6 +32,9 @@ This repository keeps track of the latest papers on single-cell and spatial tran
 9. [2022 NeurIPS]**ChemCPA**: Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution [[paper]](https://neurips.cc/virtual/2022/poster/53227)[[code]](https://github.com/theislab/chemCPA)
 
 10. [2019 Nature Methods] **scGen** predicts single-cell perturbation responses [[paper]](https://www.nature.com/articles/s41592-019-0494-8)[[code]](https://github.com/theislab/scgen)
+11. [2023 Nature Methods] **GSFA** A new Bayesian factor analysis method improves detection of genes and biological processes affected by perturbations in single-cell CRISPR screening [[paper]](https://www.nature.com/articles/s41592-023-02017-4)
+12. [2023 Nature Methods] **CellOT** Learning single-cell perturbation responses using neural optimal transport [[paper]](https://www.nature.com/articles/s41592-023-01969-x)
+13. [2023 Nature Biotech] **GEARS** Predicting transcriptional outcomes of novel multigene perturbations with GEARS [[paper]](https://www.nature.com/articles/s41587-023-01905-6)
 
 
 
