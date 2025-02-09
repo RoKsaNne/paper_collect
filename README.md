@@ -35,6 +35,8 @@ This repository keeps track of the latest papers on single-cell and spatial tran
 11. [2023 Nature Methods] **GSFA** A new Bayesian factor analysis method improves detection of genes and biological processes affected by perturbations in single-cell CRISPR screening [[paper]](https://www.nature.com/articles/s41592-023-02017-4)
 12. [2023 Nature Methods] **CellOT** Learning single-cell perturbation responses using neural optimal transport [[paper]](https://www.nature.com/articles/s41592-023-01969-x)
 13. [2023 Nature Biotech] **GEARS** Predicting transcriptional outcomes of novel multigene perturbations with GEARS [[paper]](https://www.nature.com/articles/s41587-023-01905-6)
+14. [2024 biorxiv] Deep learning-based predictions of gene perturbation effects do not yet outperform simple linear baselines [[paper]](https://www.biorxiv.org/content/10.1101/2024.09.16.613342v5)
+15. [2025 biorxiv] Benchmarking AI Models for In Silico Gene Perturbation of Cells [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.20.629581v2)
 
 
 
